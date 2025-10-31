@@ -1,7 +1,7 @@
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-
 package com.mycompany.if2000_registroquiz;
 
 import Domain.ArchivoRegistro;
@@ -14,7 +14,7 @@ import java.util.Scanner;
  * @author mayco
  */
 
-public class IF2000_RegistroQuiz {
+public class QuizRegistroPersona {
 
  public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -37,5 +37,4 @@ public class IF2000_RegistroQuiz {
         sc.close();
     }
 }
-
 
